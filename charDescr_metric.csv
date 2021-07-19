@@ -1,0 +1,45 @@
+abbreviation,description,category
+ASPECT (degrees),basin average of topographic slope compass directions from elevation grid,geomorphic
+BSLOPD (degrees),Mean basin slope measured in degrees,geomorphic
+DRNAREA (square km*),Area that drains to a point on a stream,geomorphic
+DRNDENSITY (dimensionless),Basin drainage density defined as total stream length divided by drainage area.,geomorphic
+ELEV (m*),Mean Basin Elevation,geomorphic
+ELEVMAX (m*),Maximum basin elevation,geomorphic
+FOREST (percent),Percentage of area covered by forest,land-cover
+I24H2Y (mm*),Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,climatic
+IMPERV (percent),Percentage of impervious area,development
+JANAVPRE2K (mm*),Mean January Precipitation,climatic
+JANMAXT2K (degrees C*),Mean Maximum January Temperature from 2K resolution PRISM 1961-1990 data,climatic
+JANMAXTMP (degrees C*),Mean Maximum January Temperature,climatic
+JANMINT2K (degrees C*),Mean Minimum January Temperature from 2K resolution PRISM PRISM 1961-1990 data,climatic
+JANMINTMP (degrees C*),Mean Minimum January Temperature,climatic
+JULAVPRE2K (mm*),Mean July Average Precipitation,climatic
+LC11BARE (percent),Percentage of barren from NLCD 2011 class 31,land-cover
+LC11CRPHAY (percent),"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",land-cover
+LC11DEVHI (percent),"Percentage of area developed, high intensity, NLCD 2011 class 24",development
+LC11DVLO (percent),"Percentage of developed area, low intensity, from NLCD 2011 class 22",development
+LC11DVMD (percent),"Percentage of area developed, medium intensity, NLCD 2011 class 23",development
+LC11DVOPN (percent),Percentage of developed open area from NLCD 2011 class 21,development
+LC11FORSHB (percent),"Percentage of forests and shrub lands, classes 41 to 52, from NLCD 2011",land-cover
+LC11HERB (percent),Percentage of herbaceous from NLCD 2011 classes 71-74,land-cover
+LC11IMP (percent),Average percentage of impervious area determined from NLCD 2011 impervious dataset,development
+LC11WATER (percent),"Percent of open water, class 11, from NLCD 2011",land-cover
+LC11WETLND (percent),"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",land-cover
+MAJ_ROADS (km*),Length of non-state major roads in basin,development
+MAXBSLOPD (degrees),"Maximum basin slope, in degrees, using ArcInfo Grid with NHDPlus 30-m resolution elevation data.",geomorphic
+MAXTEMP (degrees C*),Mean annual maximum air temperature over basin area from PRISM 1971-2000 800-m grid,climatic
+MINBELEV (m*),Minimum basin elevation,geomorphic
+MINBSLOPD (degrees),"Minimum basin slope, in degrees, using ArcInfo Grid with NHDPlus 30-m resolution elevation data.",geomorphic
+MINTEMP (degrees C*),Mean annual minimum air temperature over basin surface area as defined in SIR 2008-5126,climatic
+MIN_ROADS (km*),Length of non-state minor roads in basin,development
+ORREG2 (dimensionless),Oregon Region Number,geomorphic
+OR_HIPERMA (percent),Percent basin surface area containing high permeability aquifer units as defined in SIR 2008-5126,geomorphic
+OR_HIPERMG (percent),Percent basin surface area containing high permeability geologic units as defined in SIR 2008-5126,geomorphic
+PRECIP (mm*),Mean Annual Precipitation,climatic
+RELIEF (m*),Maximum - minimum elevation,geomorphic
+SOILPERM (mm* per hour),Average Soil Permeability,land-cover
+STATE_HWY (km*),Length of state highways in basin,development
+STATSGODEP (mm*),Area-weighted average soil depth from NRCS STATSGO database,geomorphic
+STRMTOT (km*),"total length of all mapped streams (1:24,000-scale) in the basin",geomorphic
+WATCAPORC (mm*),Available water capacity  from STATSGO data using methods from SIR 2005-5116,geomorphic
+WATCAPORR (mm per mm),Available water capacity from STATSGO data using methods from SIR 2008-5126,geomorphic
